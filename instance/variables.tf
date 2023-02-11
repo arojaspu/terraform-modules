@@ -29,3 +29,7 @@ variable "ingress_rules" {
     type = list
 }
 
+variable "egress_rules" {
+    type = list
+}
+
